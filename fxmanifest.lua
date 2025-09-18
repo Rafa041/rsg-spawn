@@ -25,7 +25,7 @@ dependencies {
 }
 
 files {
-  'locales/*.json'
+    'locales/*.json'
 }
 
 lua54 'yes'
